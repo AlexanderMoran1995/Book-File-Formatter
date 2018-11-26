@@ -1,0 +1,3 @@
+The only thing required to compile this program is to build and run the 5 files together in a project with the name of the textfile you wish to process as the command line argument.
+
+note: it may take a few seconds to process when it is run but should consistently read and produce output without problems if all files are run together with correct input. 
